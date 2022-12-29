@@ -1,0 +1,24 @@
+
+
+// What is Ternary 
+// //        What is optional chaining in react?
+// // The optional chaining ( ?. ) operator accesses an object's property or calls a 
+// // What is truncate in react JS?
+// // The Truncate component will shorten text with an ellipsis. Always add a title attribute to the truncated element so the full text remains accessible
+
+
+// NEW WORDS OF CSS
+// // -linear-gradient =uses for fading and its degree direction and three different color
+// // What is linear gradient in CSS?
+// // Image result for linear-gradient css
+// // The linear-gradient() CSS function creates an image consisting of a progressive transition between two or more colors along a straight line.
+
+
+// Fetch is a two-step process when handling JSON data- first, to make the actual request; second, to call the .json() method on the response. Axios allows cancelling request and request timeout. Fetch does not. Axios has the ability to intercept HTTP requests. Fetch, by default, doesn’t provide a way to intercept requests. Axios has built-in support for download progress. Fetch does not support upload progress. Axios has wide browser support. Fetch only supports Chrome 42+, Firefox
+
+// What is Axios in react JS?
+// // In ReactJS, Axios is a library that serves to create HTTP requests that are present externally. It is evident from the fact that we may sometimes in React applications need to get data from the external source. It is quite difficult to fetch such data so that they can be normally shown on the website.
+
+// Axios is a promise-based HTTP Client for node.js and the browser. It is isomorphic (= it can run in the browser and nodejs with the same codebase).
+            // Axios Vs fetch
+// Axios automatically transforms the data returned from the server, but with fetch() you have to call the response. json method to parse the data to a JavaScript object.
